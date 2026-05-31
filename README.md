@@ -1,4 +1,4 @@
-[About me](https://azoaj.straw.page)
+[About me]([https://azoaj.straw.page](https://ajazotea.straw.page))
 [Comfs](https://ajcomflist.straw.page)
 [Atabook](https://ajazo.atabook.org)
 
