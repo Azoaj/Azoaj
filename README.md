@@ -1,4 +1,3 @@
-![](https://www.freeiconspng.com/uploads/lace-border-png-6.png)
 [Straw](https://ajazotea.straw.page)
 [Atabook](https://ajazo.atabook.org)
 
