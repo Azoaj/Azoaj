@@ -1,7 +1,7 @@
 [Straw](https://ajazotea.straw.page)
 [Atabook](https://ajazo.atabook.org)
 
-![](https://i.pinimg.com/originals/fb/2e/d4/fb2ed4c5af25c7a0470f01ac9b156704.jpg)
+![](https://i.pinimg.com/originals/6c/98/43/6c984354f2b911e504964613a07bba58.jpg?nii=t)
 
 ["ＳＡＬＵＴＥＥ" － Ｄｏｋｙｅｏｍ]
 ![](https://www.freeiconspng.com/uploads/lace-border-png-6.png)
