@@ -1,4 +1,4 @@
-[Straw](https://ajazotea.straw.page)
+[Straw](https://azoaj.straw.page)
 [Atabook](https://ajazo.atabook.org)
 [Guns.lol](https://guns.lol/aj_azo)
 
