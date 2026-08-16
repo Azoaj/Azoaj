@@ -1,4 +1,4 @@
-<p align="center">${\textsf{\color{#78a1e4}HIM AND I}}$
+<p align="center">${\textsf{\color{#e47878}HIM AND I}}$
 
 <p align="center"><https://i.pinimg.com/736x/e1/73/fd/e173fdbb845ef0fdc0a0d7abbf81c4e7.jpg
 
