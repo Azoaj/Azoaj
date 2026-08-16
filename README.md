@@ -5,4 +5,3 @@
 <p align="center"><a href=https://willyboundaries.straw.page>Boundaries<a/>
 
 <p align="center">"ＳＡＬＵＴＥＥ" － Ｄｏｋｙｅｏｍ
-![](https://www.freeiconspng.com/uploads/lace-border-png-6.png)
