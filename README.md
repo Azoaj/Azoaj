@@ -8,6 +8,6 @@
 <p align="center"><a href=https://guns.lol/aj_azo>guns.lol<a/>
 <p align="center"><a href=https://willyboundaries.straw.page>Boundaries<a/>
 
-https://github.com/kittinan/spotify-github-profile
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=idao3oky09vqrvklkbti5b47x&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false)](https://github.com/kittinan/spotify-github-profile)
 
 <p align="center">"ＳＡＬＵＴＥＥ" － Ｄｏｋｙｅｏｍ
