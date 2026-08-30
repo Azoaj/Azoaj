@@ -1,6 +1,6 @@
 <p align="center">${\textsf{\color{#e47878}HIM AND I}}$
 
-<p align="center"><img https://i.pinimg.com/736x/e1/73/fd/e173fdbb845ef0fdc0a0d7abbf81c4e7.jpg<img width="736" height="552" alt="image" src="https://github.com/user-attachments/assets/608fb0e7-4ae3-45cf-a24e-3496d1d05aad" />
+<p align="center"><img <img width="735" height="981" alt="image" src="https://github.com/user-attachments/assets/3042cb36-2a9b-4c6a-9b85-f392c56ed65b"
 
 
 
