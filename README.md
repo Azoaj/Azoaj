@@ -6,7 +6,7 @@
 
 
 
-  <p align="center">< href=ahttps://vannsinfo.straw.page>straw<a/>
+  <p align="center"><a href=ahttps://vannsinfo.straw.page>straw<a/>
    <p align="center"><a href=https://ajazo.atabook.org>ata<a/>
 <p align="center"><a href=https://pronouns.cc/@Willy_azo>pronouns<a/>
 <p align="center"><a href=https://willyboundaries.straw.page>Boundaries<a/>
