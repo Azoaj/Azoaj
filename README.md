@@ -1,4 +1,6 @@
-![Visitor Count](https://komarev.com/ghpvc/?username=azoaj&color=blue&style=flat-square)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=azoaj&label=Profile%20views&color=ce9927&style=flat" alt="Profile views" />
+</p>
 
 <p align="center">${\textsf{\color{#e47878}HIM AND I}}$
 
