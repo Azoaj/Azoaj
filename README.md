@@ -1,4 +1,4 @@
-![Visitor Count](https://komarev.com/ghpvc/?azoaj&color=pink&style=flat-square)
+   <p align="center"![Visitor Count](https://komarev.com/ghpvc/?azoaj&color=pink&style=flat-square)
 
 <p align="center">${\textsf{\color{#e47878}HIM AND I}}$
 
