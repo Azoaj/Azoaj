@@ -1,8 +1,8 @@
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=azoaj&label=Profile%20views&color=e47878&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=azoaj&label=Profile%20views&color=B0E0E6&style=flat" alt="Profile views" />
 </p>
 
-<p align="center">${\textsf{\color{#e47878}HIM AND I}}$
+<p align="center">${\textsf{\color{#B0E0E6}HIM AND I}}$
 
 <p align="center"><img <img width="735" height="548" alt="image" src="https://github.com/user-attachments/assets/697b477f-4952-4dee-9246-ce850ec4cac8" />
 
