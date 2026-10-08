@@ -5,7 +5,7 @@
 <p align="center">${\textsf{\color{#B0E0E6}HIM AND I}}$
 
 <p align="center"><img width="521" height="479" alt="image" src="https://github.com/user-attachments/assets/b972a178-1d1d-4fca-aabe-d1c70e052c7a" />
- />
+
 
 
 
