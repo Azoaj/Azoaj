@@ -21,5 +21,5 @@
 
   [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=idao3oky09vqrvklkbti5b47x&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&profanity=false&hide_remaster=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
-<p align="center"><img width="600" height="479" alt="image" src="https://github.com/user-attachments/assets/9ba8e6f6-3465-47d9-b11e-720ec18b9e3b" />
+
 
