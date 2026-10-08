@@ -4,7 +4,8 @@
 
 <p align="center">${\textsf{\color{#B0E0E6}HIM AND I}}$
 
-<p align="center"><<img width="735" height="676" alt="image" src="https://github.com/user-attachments/assets/3e27afa9-5786-446c-995e-8e17899cd5d4" />
+<p align="center"><img <img width="521" height="479" alt="image" src="https://github.com/user-attachments/assets/1878a1e7-37c5-49be-8c4f-ed7e196864ee" />
+
 
 
 
